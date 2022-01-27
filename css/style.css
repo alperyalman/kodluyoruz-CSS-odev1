@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(240, 240, 240);
+}
+
+article>p {
+    text-align: justify;
+}
+header h1{
+    text-align: center;
+}
+
+nav {
+    text-align: center;
+}
+
+nav li {
+    display: inline-block;
+    margin: 10px;
+    list-style-type: none;
+    text-indent: 0%;
+    
+}
