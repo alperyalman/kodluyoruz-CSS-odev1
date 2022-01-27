@@ -2,11 +2,29 @@ body {
     background-color: rgb(240, 240, 240);
 }
 
+a {
+    color: blue;
+}
+
+a:hover {
+    color: brown;
+}
+
+.exchange-info {
+    text-align: center;   
+}
+
+.exchange-list {
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
 article>p {
     text-align: justify;
 }
 header h1{
     text-align: center;
+    color: blueviolet;
 }
 
 nav {
@@ -18,5 +36,14 @@ nav li {
     margin: 10px;
     list-style-type: none;
     text-indent: 0%;
-    
 }
+
+article.contact {
+    display: inline-block;
+    margin-right: 100px;
+}
+
+
+
+
+
